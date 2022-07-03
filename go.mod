@@ -1,4 +1,4 @@
-module github.com/google/wire
+module github.com/gocopper/wire
 
 go 1.12
 
